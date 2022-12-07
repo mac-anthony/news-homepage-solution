@@ -285,6 +285,7 @@ hr {
       padding: 0;
       margin-right: 2rem;
       height: auto;
+      border: 1px solid red;
     }
 
     .menu-btn {
@@ -316,11 +317,12 @@ hr {
 
     .page-header-img {
       background-image: url(../images/image-web-3-desktop.jpg);
-      width: 55vw;
+      width: 50vw;
       height: 350px;
     }
     .container {
       margin-top: 3.5rem;
+      width: 80vw;
     }
 
     .second-section {
